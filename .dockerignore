@@ -1,6 +1,5 @@
 .circleci/
 .git/
-.reading/
 .dockerignore
 .gitignore
 apis/programs/frontends/
